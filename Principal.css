@@ -1,0 +1,99 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 485px;
+}
+
+.u-section-1 .u-text-1 {
+  width: 595px;
+  margin: 29px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  width: 448px;
+  margin: 13px auto 0;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 23px;
+  margin-bottom: 30px;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 318px;
+  background-image: url("images/Promoviendolaigualdaddegnerodentroyfueradelasaulasayudaaprevenirsituacionesdediscriminacinyacoso.1.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 20px;
+}
+
+.u-section-1 .u-image-2 {
+  min-height: 318px;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url('images/ImagendeWhatsApp2024-08-20alas12.47.44_813e7740.jpg');
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 20px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 429px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 49px;
+    padding-right: 49px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 368px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 830px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 584px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+  }
+}
